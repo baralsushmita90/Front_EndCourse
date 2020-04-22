@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Montserrat:600,700i,900&display=swap');
+
+body{
+  font-family: 'IM Fell French Canon SC',sans-serif;
+  margin: 0px;
+
+
+}
+
+body{
+  background: #ffff99;
+}
+body > main > section > form > h3 {
+
+   color: #ff99cc;
+   font-weight: bolder;
+}
+body > header > h1
+{
+  color: #00bbaa;
+  font-family: 'Montserrat',monospace;
+  font-weight:normal;
+}
+
+#main-header{
+  border-bottom: 2px solid #fff;
+}

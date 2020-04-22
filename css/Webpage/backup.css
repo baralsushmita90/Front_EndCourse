@@ -1,0 +1,48 @@
+body{
+  padding: 5px;
+}
+.table-2{
+
+ min-width: 600px;
+ border-collapse: collapse;
+ margin-left: 150px;
+ margin-right: 150px;
+
+}
+.table-2 th, .table-2 td{
+  padding: 12px 15px;
+
+}
+.table-2 tbody tr{
+  border-bottom: 2px solid #dddddd;
+  background: #ffffff;
+}
+
+.thead1 {
+   margin-left: 30%;
+   margin-right: 30%;
+}
+.thead1 th{
+  padding : 12px 15px;
+}
+.table-2 tbody tr td img{
+  border-radius: 50%;
+}
+#section1{
+  background-color: #e0e0e0;
+  border: 2px solid 2020;
+  padding: 50px;
+
+}
+#section2{
+   background-color: #ffffff;
+   height: 1000px;
+   width: 900px;
+   margin: 0 auto;
+}
+#section3{
+  background-color: #ccffff;
+  height: 913px;
+
+
+}
